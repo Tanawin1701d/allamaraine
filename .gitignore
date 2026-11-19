@@ -1,0 +1,19 @@
+# ---- Whitelist: ignore everything, then allow code and small files ----
+/*
+!/.gitignore
+!/README.md
+!/*.ipynb
+!/data.yaml
+!/examplePic/
+
+# ---- dataset: only the small config ----------------------------------
+!/dataset/
+/dataset/*
+!/dataset/test.yaml
+
+# ---- never commit, even inside allowed folders -----------------------
+*.mp4
+*.zip
+*.pt
+*.pth
+.ipynb_checkpoints/

@@ -1,0 +1,19 @@
+train: /media/tanawin/tanawin1701e/project2/chess/dataset/train/images
+val: /media/tanawin/tanawin1701e/project2/chess/dataset/valid/images
+
+nc: 12  # Number of classes (change as per your dataset)
+names: [
+  white-queen,
+white-pawn,
+black-rook,
+black-bishop,
+black-knight,
+black-queen,
+black-pawn,
+black-king,
+white-rook,
+white-bishop,
+white-knight,
+white-king
+
+]  # List of class names (change as per your dataset)
