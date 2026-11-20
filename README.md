@@ -11,7 +11,7 @@ the moves as PGN.
 
 - Course: Digital Image Processing, Chulalongkorn University (M.S. Computer Science)
 - Lecturer: Dr. Punnarai Siricharoen
-- Result: **won the class YOLO chess competition**
+- Result in the class YOLO chess competition: **3rd overall** across all sections, **1st among master's students**
 
 ![Example input frame](examplePic/4_Move_studet.png)
 
